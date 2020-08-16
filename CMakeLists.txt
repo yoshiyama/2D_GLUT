@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 
-set(basic 2d_glut)
+set(basic 3d_glut)
 project(${basic})
 
 # include_directories(/usr/include/eigen3)
